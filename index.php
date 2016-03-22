@@ -5,13 +5,13 @@
   	<title>Mike The Frog | Treehouse Profile</title>
   	<link href="css/style.css" rel="stylesheet" />
   </head>
-  
+
   <body>
     <section class="sidebar text-center">
       <div class="avatar">
         <img src="img/avatar.png" alt="Mike The Frog">
       </div>
-      <h1>Mike The Frog</h1>
+      <h1>Mike</h1>
       <p>Portland, OR</p>
       <hr />
       <p>Welcome to PHP Basics!</p>
